@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "legacy_uid": "eaec67f5-46a0-50a0-39e1-ffa4232252d6",
+  "instructors": {
+    "content": [
+      "da32551f-181b-fd93-6628-39dbe0972ea8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c81fd603-5b2b-a5c2-81e6-340016adb664",
+    "website": "18-655-mathematical-statistics-spring-2016"
+  },
+  "course_title": "Mathematical Statistics",
+  "hide_download": true,
+  "course_description": "This course provides students with decision theory, estimation, confidence intervals, and hypothesis testing. It introduces large sample theory, asymptotic efficiency of estimates, exponential families, and sequential analysis.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.655",
+  "course_image_thumbnail": {
+    "content": "5afe6cbb-89a0-6769-2977-8a0202907d8a",
+    "website": "18-655-mathematical-statistics-spring-2016"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "cc33b5d4-44b0-4c14-bd80-2890934817cd",
+  "site_short_id": "18.655-spring-2016",
+  "site_url_path": "courses/18-655-mathematical-statistics-spring-2016",
+  "title": "Course Metadata"
+}
