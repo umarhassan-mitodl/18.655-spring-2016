@@ -5,8 +5,6 @@ description: This resource contains information regarding mathematical statistic
 file: /courses/18-655-mathematical-statistics-spring-2016/168771d2b7c335d19d7e622056ccc0fb_MIT18_655S16_ProblemSet_9.pdf
 file_size: 128304
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

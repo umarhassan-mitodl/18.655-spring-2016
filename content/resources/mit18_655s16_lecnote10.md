@@ -5,8 +5,6 @@ description: This resource contains information regarding mathematical statistic
 file: /courses/18-655-mathematical-statistics-spring-2016/0049f07ae6b39d4a3fe02f6a4d8a3031_MIT18_655S16_LecNote10.pdf
 file_size: 943714
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

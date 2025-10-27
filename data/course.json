@@ -26,7 +26,6 @@
     "website": "18-655-mathematical-statistics-spring-2016"
   },
   "course_title": "Mathematical Statistics",
-  "hide_download": true,
   "course_description": "This course provides students with decision theory, estimation, confidence intervals, and hypothesis testing. It introduces large sample theory, asymptotic efficiency of estimates, exponential families, and sequential analysis.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "5afe6cbb-89a0-6769-2977-8a0202907d8a",
     "website": "18-655-mathematical-statistics-spring-2016"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",
